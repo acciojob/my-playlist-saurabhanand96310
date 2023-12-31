@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204);
+}
+h1,h2 {
+	text-align:center;
+}
+a {
+	text-decoration-line: none;
+}
+li {
+	list-style-type:none;
+}
+source{
+	background-color: rgb(255, 255, 255);
+	padding:100px;
+	border-radius:10px;
+}
